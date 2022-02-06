@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# API authentication secrets file
+*secrets*
+
+# Output saved as csv
+*.csv
